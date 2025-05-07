@@ -21,7 +21,7 @@
     "resolution": "2k",
     "startAnimation": "Start_Idle_01",
     "startScene": true,
-    "language": "English"
+    "language": "Bahasa Indonesia"
   },
   "EventInfos": [
     {
@@ -83,7 +83,7 @@
       "sound/CH0242_MemorialLobby_5_1": "えーどうすればいいのーヒカリ死亡フラグー？",
       "sound/CH0242_MemorialLobby_5_2": "たすけてーせんせー……。"
     },
-    "English": {
+    "Bahasa Indonesia": {
       "sound/CH0242_MemorialLobby_1": "Di sini nih~...",
       "sound/CH0242_MemorialLobby_2_1": "Dalem banget nih~",
       "sound/CH0242_MemorialLobby_2_2": "Sakit bangeeet~",
