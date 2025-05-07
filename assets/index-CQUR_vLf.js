@@ -52154,7 +52154,7 @@ void main(void){
                               _e,
                               {
                                 onConfirm: b,
-                                title: "Pengaturan Awal (perlu ganti wallpaper dulu baru aktif)",
+                                title: "Kembali ke Pengaturan Awal? (berlaku pada pemuatan ulang berikutnya)",
                               },
                               {
                                 reference: be(() => [
